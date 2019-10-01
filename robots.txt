@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haungoojun.ofmine123.club/sitemap.xml
